@@ -1,62 +1,56 @@
 {
-    "posts": [
+    "items": [
       { "id": 1, 
         "image":"https://i.pinimg.com/564x/af/a4/01/afa4018fc9614d0801db275bc367fe5c.jpg",
-      "title": "glazed donuts", 
-      "recipe": [ {
-        "title":"glazed donuts",
-        "author":"bless this mess",
-        "time":45,
-        "servings":4,
-        "ingredients":["Whole milk", "Sugar", "Instant Or Active Dry Yeast","Eggs"
-        ,"Unsalted butter","All Purpose Flour","Salt","Shortening or oil for frying"],
-        "instructions":[
-        "To make the dough: warm the milk until it is getting nice and warm when you dip your finger in it (about 105 degrees). Add the milk to a mixing bowl or the bowl of your stand mixer. Add the sugar and stir to dissolve. Add the yeast and stir to combine. Let the yeast rest for 5 minutes.",
-        "Add the beaten eggs and melted butter to the bowl and stir to combine.",
-        "While the mixer is running slowly, add the flour and salt and mix until the dough comes together. Mix for a whole five minutes to work the dough well. Turn off the bowl and let the dough sit in the bowl of the mixer for 10 minutes.",
-        "After the rest period turn the dough out into a lightly oiled bowl, cover the bowl with plastic wrap and refrigerate the dough for at least 2 hours, but up to overnight. The goal is to get the dough cold enough to work with easily and have the butter solidify.",
-       "To form the donuts: Remove the dough from the fridge and roll it out on a lightly floured surface until it is ½ to ⅓ of an inch thick. Use a three-inch donut cutter to cut out the donuts.",
-       "Place the cut donuts and holes on a lightly greased baking sheet.",
-       "Repeat with the remaining dough.",
-       "Cover the donuts and let them rise until doubled in size, about one hour. The donuts will be very puffy and airy looking.",
-       "To fry the donuts: Heat a few inches of oil or shortening in a large cast iron skillet or fryer over medium heat until the oil reaches 350 to 375 degrees (use a thermometer!). Carefully add the donuts to the hot oil and fry until golden brown, about 1 ½ minutes per side. The donut holes will only take about 30 seconds per side.",
-       "Use a slotted spoon to remove the donuts from the hot oil and place them on a paper towel lined baking sheet to remove extra grease. Let them cool slightly. Dip the hot donuts in the glaze (I like to flip on both sides so it's fully covered) and enjoy right away.",
-       "For the Glaze: Melt the butter in a medium bowl. Add the vanilla and stir to combine. Add the powdered sugar and stir to form a thick paste. Thin out the paste with milk, one tablespoon at a time, until the mixture is about as thick as school glue."
-        ]
-      }
-    ]
-        
-    
+        "title": "glazed donuts",
+        "category":"dessert"
      },
      { "id": 2, 
         "image":"https://i.pinimg.com/564x/db/4c/1c/db4c1c101fbbdb5d79144a912405fee3.jpg",
-      "title": "cruffinns", 
-      "recipe": [ {
-        "title":"cruffins",
-        "author":"bless this mess",
-        "time":45,
-        "servings":4,
-        "ingredients":["Whole milk", "Sugar", "Instant Or Active Dry Yeast","Eggs"
-        ,"Unsalted butter","All Purpose Flour","Salt","Shortening or oil for frying"],
-        "instructions":[
-        "To make the dough: warm the milk until it is getting nice and warm when you dip your finger in it (about 105 degrees). Add the milk to a mixing bowl or the bowl of your stand mixer. Add the sugar and stir to dissolve. Add the yeast and stir to combine. Let the yeast rest for 5 minutes.",
-        "Add the beaten eggs and melted butter to the bowl and stir to combine.",
-        "While the mixer is running slowly, add the flour and salt and mix until the dough comes together. Mix for a whole five minutes to work the dough well. Turn off the bowl and let the dough sit in the bowl of the mixer for 10 minutes.",
-        "After the rest period turn the dough out into a lightly oiled bowl, cover the bowl with plastic wrap and refrigerate the dough for at least 2 hours, but up to overnight. The goal is to get the dough cold enough to work with easily and have the butter solidify.",
-       "To form the donuts: Remove the dough from the fridge and roll it out on a lightly floured surface until it is ½ to ⅓ of an inch thick. Use a three-inch donut cutter to cut out the donuts.",
-       "Place the cut donuts and holes on a lightly greased baking sheet.",
-       "Repeat with the remaining dough.",
-       "Cover the donuts and let them rise until doubled in size, about one hour. The donuts will be very puffy and airy looking.",
-       "To fry the donuts: Heat a few inches of oil or shortening in a large cast iron skillet or fryer over medium heat until the oil reaches 350 to 375 degrees (use a thermometer!). Carefully add the donuts to the hot oil and fry until golden brown, about 1 ½ minutes per side. The donut holes will only take about 30 seconds per side.",
-       "Use a slotted spoon to remove the donuts from the hot oil and place them on a paper towel lined baking sheet to remove extra grease. Let them cool slightly. Dip the hot donuts in the glaze (I like to flip on both sides so it's fully covered) and enjoy right away.",
-       "For the Glaze: Melt the butter in a medium bowl. Add the vanilla and stir to combine. Add the powdered sugar and stir to form a thick paste. Thin out the paste with milk, one tablespoon at a time, until the mixture is about as thick as school glue."
-        ]
-      }
-    ]
-        
-    
+        "title": "cruffins", 
+        "category":"dessert"
+     
+     },
+     { "id": 3, 
+        "image":"https://i.pinimg.com/236x/4e/26/b7/4e26b75e3ed3a68509be9a3edbef70c5.jpg",
+        "title": "chocolate cups", 
+        "category":"dessert"
+     },
+     { "id": 4, 
+        "image":"https://i.pinimg.com/236x/4f/a6/24/4fa624dac9b732c57cd2ca21b0ee4577.jpg",
+       "title": "waffles", 
+        "category":"dessert"
+     },
+     { "id": 5, 
+        "image":"https://i.pinimg.com/564x/1e/c8/d9/1ec8d90cb7dce403440a11cf90a5e153.jpg",
+        "title": "muffins", 
+        "category":"dessert"
+     },
+     { "id": 6, 
+        "image":"https://i.pinimg.com/236x/67/64/a2/6764a23712648c4db8370b1c0f18ebee.jpg",
+        "title": "minicakes", 
+        "category":"dessert"
+     },
+     { "id": 7, 
+        "image":"https://i.pinimg.com/236x/ef/7d/67/ef7d6760f54d3ff16a857b5c9d5c2c5a.jpg",
+        "title": "cheesecake", 
+        "category":"dessert"
+     },
+     { "id": 8, 
+        "image":"https://i.pinimg.com/236x/e6/72/12/e672125c9e1e8c316d1d12be6311db9d.jpg",
+        "title": "tiramisu", 
+        "category":"dessert"
+     },
+     { "id": 9, 
+        "image":"https://i.pinimg.com/236x/c5/04/4e/c5044e158c790417e8b7debeafb121c2.jpg",
+        "title": "mascarpone", 
+        "category":"dessert"
+     },
+     { "id": 10, 
+        "image":"https://i.pinimg.com/236x/6c/3b/10/6c3b10c95f7b8a71c8fbd59c80429c5c.jpg",
+        "title": "brownies", 
+        "category":"dessert"
      }
-
     ]
     
   }

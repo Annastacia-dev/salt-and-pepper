@@ -6,9 +6,9 @@ const Foods = () => {
   const [foods, setFoods]= useState([])
 
   useEffect(()=> {
-    fetch("http://localhost:8001/posts")
+    fetch("http://localhost:8001/items")
     .then(r => r.json())
-    .then(data => setFoods(data))
+    .then(item => setFoods(item))
   }, [])
   return (
     <div className='food-container'>
